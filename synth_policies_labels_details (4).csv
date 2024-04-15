@@ -1,0 +1,105 @@
+,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+0,0,"
+
+# AUTOMOBILE LIABILITY INSURANCE
+The automobile liability insurance of the policy will offer a protection that covers losses to other bodies. As a policyholder, you are assured of coverage in the case of an auto accident that results in other people's bodily injuries or property damages or both.
+
+It will offer an additional protection layer to your car covering liability claims and legal defence fees resulting from accidents within the policy limits.
+
+Exclusions
+- Losses sustained by a rented or borrowed auto that is not rented or borrowed with permission from the insured.
+- Losses resulting from intentional damages inflicted by the insured.
+- Losses to the insured person or property
+- Losses to the auto with which a trailer is attached
+- Losses involving autos owned by the insured that are not part of the policy coverage. 
+
+LIMITS OF LIABILITY
+-$100,000 per person
+-$300,000 per occurrence
+-$50,000 property damage 
+
+What is not covered
+-Losses to property or persons covered under another automobile liability insurance policy.
+-Losses caused by the insured operating vehicles under the influence of alcohol or drugs
+-Losses arising from the transportation of income-producing goods, merchandise, or commodities
+
+# AUTOMOBILE MEDICAL PAYMENTS
+The automobile medical payments insurance offers the insured or passengers medical bill compensation regardless of who caused the accident. The benefit goes to the insured person, relatives occupying the car, or permit holders operating with permission.
+
+Exclusions
+-Services, treatments, or surgeries that are not medically necessary
+-Losses not related to the use of the car
+-Losses involving the transportation of income-producing goods, merchandise, or commodities
+-Losses due to intoxication or drug use as stated within the policy limitations
+
+LIMITS OF LIABILITY
+- $10,000 medical expenses per injured body/accident 
+
+What is not covered
+- Medical expenses not directly resulting from an auto accident
+- Services considered optional by the medical practitioner
+- Costs considered investigational by the medical field
+
+# AUTOMOBILE DEBT INDEMNITY INSURANCE
+The automobile debt indemnity insurance protects the insured on the outstanding debts of the car. In the event of an accident, the benefit will apply to what is left of the remaining car debt.
+
+Exclusions
+-Losses covered under another auto liability insurance policy
+-Losses caused due to deliberate damage by the insured
+-Losses resulting from operating vehicles under the influence
+-Losses due to transportation of income-producing goods, merchandise, or commodities
+-Losses occurring outside the policy period 
+
+LIMITS OF LIABILITY
+-Maximum amount of $100,000 benefit payable to the debtor or lender 
+
+What is not covered
+-Losses caused by the insured operating vehicles under the influence of alcohol or drugs.
+
+# UNINSURED MOTORISTS INSURANCE
+Uninsured motorists offer coverage in the case of bodily injuries resulting from a crash with uninsured or underinsured operators. The coverage will also apply if the automobile leaves the scene after the incident.
+
+Exclusions
+-Losses due to transport of income-producing goods, merchandise, or commodities
+-Losses involving hit and run incidents
+-Losses from incidents involving intoxicated or drug-impaired drivers
+-Losses caused by the insured operating vehicles under the influence
+-Losses caused intentionally by the insured 
+
+LIMITS OF LIABILITY
+- $25,000 per person
+- $50,000 per occurrence
+
+What is not covered
+-Injuries resulting from the transportation of income-producing goods, merchandise, or commodities
+-Injuries resulting from hit-and-run situations involving insured operators
+-Injuries caused by intoxicated or drug-impaired drivers
+-Injuries caused intentionally by the insured
+
+# DEFAULT PROVISIONS
+In the case the insured defaults on debt repayment, the insurer will pay the sum insured to the beneficiary.
+
+Exclusions
+-Losses not related to automobile accidents
+-Losses due to failure to maintain the vehicle
+-Losses due to insufficient debt information 
+
+Limits of liability- $50,000 per occurrence
+What is not covered
+-Losses resulting due to the insured's failure to maintain the automobile
+-Losses resulting from insufficient data
+-Losses due to reasons unrelated to the auto
+
+# PERSONAL INJURY PROTECTION
+Personal injury protection provides coverage for medical services, lost wages and replacement services losses arising from an automobile accident. The coverage will extend from the insured to the qualifying policyholders.
+
+Exclusions
+-The insured or insureds operating a vehicle under the influence of alcohol or drugs
+-Services deemed optional by physicians
+-Expenses incurred outside the policy period
+-Expenses not directly resulting from an auto accident
+
+Limits of liability- 
+","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",Farmers Insurance Group,Veronica Gray,"59125 William Pines Apt. 666
+New Thomas, HI 24569",cherylvalentine@example.com,af71afef-4aa9-4c0e-a17f-017afb8c3d47,1938-2-2,1954-11-8,140609,Maria Lynch,"12362 Albert Mountains
+Margaretshire, OR 01579",jessemorris@example.net

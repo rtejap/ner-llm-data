@@ -1,0 +1,103 @@
+,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+0,0,"
+
+The following is the auto insurance policy between Humana and Jonathan Rich.
+    
+Humana
+996 Moore Roads
+Lake Julia, TN 86053
+martinezsavannah@example.com
+
+The policy number for the Legal Auto Claims Policy is 89c5d325-cf18-4c16-9fe8-1f35d994719e.
+
+The start date for the Legal Auto Claims Policy is 1916-2-15 and the end date is 1956-2-4. The premium for the Legal Auto Claims Policy is 529429.
+
+Policy Description
+
+This policy is designed to provide coverage for legal claims arising from the ownership or use of a private passenger automobile by Jonathan Rich. The policy provides six basic types of coverage.
+
+I. Automobile Liability Insurance
+
+Automobile liability insurance is required coverage in most states. The following are examples of losses covered under this section:
+- Liability from operating a motor vehicle causing bodily injury or property damage
+  
+Example: Jonathan Rich was driving an automobile, lost control and collided with another vehicle causing property damage and physical injuries. 
+
+The coverage limit for Example 1 is $50,000 per person / $100,000 per occurrence. 
+
+Exclusions: 
+- No coverage is provided if Jonathan Rich violates any state or local laws regarding the operation of a motor vehicle such as speeding, driving under influence of alcohol, or while using a handheld electronic device.
+- No coverage is provided for intentional actions by Jonathan Rich to cause injury or damage to a third party. 
+- No coverage is provided if the operation of the vehicle is excluded by this policy such as non-authorized use.
+
+What is not covered:
+- Losses to Jonathan Rich's vehicle 
+
+II. Automobile Medical Payments Coverage
+ 
+Medical payments coverage is not required and is an optional coverage. The following are examples of losses covered under this section:
+- Medical bills (hospital, surgical, X-ray, dental, nursing, ambulance, funeral, prosthetic, and professional nursing services) incurred by Jonathan Rich as a result of an accident 
+
+Example: Jonathan Rich was driving and was involved in an at-fault accident. He suffered injuries and required medical treatment as a result. 
+
+The coverage limit for Example 2 is $10,000 per person for medical expenses.
+
+Exclusions:
+- No coverage is provided for the use of Jonathan Rich as a taxi, bus, or for-hire vehicle.
+- No coverage is provided for a commercial vehicle weighing more than 10,000 pounds or for any vehicle used in connection with a business. 
+- No coverage is provided if Jonathan Rich operates a motor vehicle while committing a felony. 
+
+What is not covered:
+- Medical treatment costs for a non-monetary injury or for loss of income 
+ 
+III. Automobile Debt Indemnity Coverage
+
+Automobile debt indemnity coverage is not required and is an optional coverage. The following are examples of losses covered under this section: 
+
+Example: Jonathan Rich is involved in a car accident and his car is totalled when another driver runs a red light and collides into his car. 
+
+The coverage limit for Example 3 is $25,000 per occurrence. 
+
+Exclusions:
+- No coverage is provided for a commercial vehicle 
+- No coverage is provided if Jonathan Rich operates a motor vehicle while committing a felony. 
+- No coverage is provided if Jonathan Rich is using his car for delivery or transportation services.
+
+What is not covered: 
+- Payment of Jonathan Rich's car loan. 
+
+IV. Uninsured Motorists Insurance
+
+Uninsured motorists coverage is required in some states and optional in others. The following are examples of losses covered under this section:
+
+Example: Jonathan Rich was involved in an accident caused by an uninsured driver.  
+
+The coverage limit for Example 4 is $50,000 per person / $100,000 per occurrence.
+
+Exclusions:
+- No coverage is provided if Jonathan Rich is an uninsured motorist.
+- No coverage is provided if Jonathan Rich is operating a motor vehicle while committing a felony.
+- No coverage is provided if Jonathan Rich is operating a motor vehicle while under the influence of drugs or alcohol.
+
+What is not covered: 
+- Losses resulting from accidents caused by uninsured drivers without insurance on their vehicle
+
+V. Default Provisions
+
+The following is an example of default provisions:
+
+Example: Jonathan Rich does not renew his policy or timely payment of premium. 
+
+The coverage limit for Example 4 is $50,000 per person / $100,000 per occurrence.
+
+Exclusions:
+- No coverage is provided for non-payment if the premium is not paid on time.
+- No coverage is provided for unlicensed operators.
+- No coverage is provided if the policy has expired or been cancelled.
+
+What is not covered: 
+- Losses resulting from non-payment of premiums or cancellation of the Legal Auto Claims Policy
+
+VI. Personal Inj","O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,B-STREET_ADDRESS,I-STREET_ADDRESS,O,O,O,O,O,O,O,O,B-EMAIL,O,O,O,O,O,O,O,O,O,O,O,B-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,O,O,O,O,O,O,O,O,O,O,O,O,B-DATE,I-DATE,I-DATE,I-DATE,I-DATE,O,O,O,O,O,B-DATE,I-DATE,I-DATE,I-DATE,I-DATE,O,O,O,O,O,O,O,O,O,O,B-PREMIUM,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",Humana,Jonathan Rich,"996 Moore Roads
+Lake Julia, TN 86053",martinezsavannah@example.com,89c5d325-cf18-4c16-9fe8-1f35d994719e,1916-2-15,1956-2-4,529429,Molly Wilson,"3694 Meyer Ferry
+Alexanderstad, HI 26895",william31@example.org

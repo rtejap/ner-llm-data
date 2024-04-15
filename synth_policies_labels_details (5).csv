@@ -1,0 +1,125 @@
+,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+0,0,"
+
+**LEGAL AUTO CLAIMS POLICY**
+
+THIS AGREEMENT is entered between the Insurer, USAA and the Insured, Anthony Smith
+
+Address: 1470 Fields Crescent Apt. 513
+South Kevin, ID 49449
+
+Email:   stacywade@example.net
+
+Policy Number: 08jKRneRdykSxT9I
+
+Start date: 1914-6-18
+
+End date: 1938-4-3
+
+PREMIUM: 778568
+
+1. AUTOMOBILE LIABILITY INSURANCE
+A) DEFINITIONS
+
+Automobile Liability Insurance means that if the driver or owner of the vehicle causes injury to another person?s body or damage to someone else?s property, the insurer will be responsible for compensating for those damages.
+
+B) EXCLUSIONS
+
+i) Damage caused intentionally or recklessly.
+ii) Damage to the Insurer?s vehicle or property.
+iii) Damage resulting from the driver?s intoxication or substance abuse.
+
+C) LIMITS OF LIABILITY
+
+The maximum amount that the insurer will pay for medical expenses and damage per claim is $300,000.
+
+WHAT IS NOT COVERED
+
+- Damage caused by unlicensed drivers
+- Damage resulting from illegal activities and criminal acts.
+
+2. AUTOMOBILE MEDICAL PAYMENTS
+A) DEFINITIONS
+
+Automobile Medical Payments means the insurer will cover reasonable and necessary medical expenses and funeral expenses for the Insurer or any passenger injured in an accident.
+
+B) EXCLUSIONS
+
+i) Pre-existing injuries unless proven that they were aggravated by the accident.
+ii) Medical expenses paid by government-funded programs.
+
+C) LIMITS OF LIABILITY
+
+The maximum amount the insurer will pay is $50,000 per person. Any medical costs remaining after this amount will be the Insurer?s responsibility.
+
+WHAT IS NOT COVERED
+
+- Injury resulting from the use of a motorcycle
+- Injury resulting from the Insurer?s participation in a criminal act
+
+3. AUTOMOBILE DEBT INDEMNITY INSURANCE
+A) DEFINITIONS
+
+Automobile Debt Indemnity Insurance means that if the vehicle is totaled in an accident, the insurer will cover the remaining balance on financing the vehicle.
+
+B) EXCLUSIONS
+
+i) Total loss resulting from the Insurer?s deliberate or malicious act;
+ii) Total loss resulting from the Insurer driving under the influence of alcohol or drugs;
+iii) Total loss resulting from war and/or riots.
+
+C) LIMITS OF LIABILITY
+
+The maximum amount that the insurer will pay is 25,000 unless it has been proven that the Insurer was not at fault for the accident.
+
+WHAT IS NOT COVERED
+
+- Vehicle total loss resulting after an accident caused by an unlicensed driver.
+
+4. UNINSURED MOTORISTS INSURANCE
+
+A) DEFINITIONS
+When the liable driver or owner of the vehicle is not insured or underinsured, the insurer will cover medical expenses and vehicle damages for the Insurer or any passenger injured in an accident.
+
+B) EXCLUSIONS
+
+i) Damages caused intentionally or recklessly.
+ii) Damages resulting from the Insurer?s intoxication or substance abuse.
+
+C) LIMITS OF LIABILITY
+
+The maximum amount that the insurer will pay for medical expenses and property damage per claim is $100,000 per person.
+
+WHAT IS NOT COVERED
+
+- Property damage caused by unlicensed drivers
+- Damages resulting from illegal activities and criminal acts.
+
+5. DEFAULT PROVISIONS
+A) In the event of disputes relating to this agreement, the parties involved must attempt to resolve them through formal arbitration held in South Kevin, ID, according to the rules of the American Arbitration Association.
+B) Failure to comply with any terms of this agreement can result in the termination of this Legal Auto Claims Policy.
+
+6. PERSONAL INJURY PROTECTION
+A) DEFINITIONS
+Personal Injury Protection means medical expenses and lost wages for the Insurer if they are injured in an automobile accident.
+
+B) EXCLUSIONS
+
+i) Pre-existing injuries unless proven that they were aggravated by the accident.
+ii) Medical expenses paid by government-funded programs.
+
+C) LIMITS OF LIABILITY
+
+The maximum amount the insurer will pay is $50,000 per person. Any medical costs remaining after this amount will be the Insurer?s responsibility.
+
+WHAT IS NOT COVERED
+
+- Injury resulting from the use of a motorcycle
+- Injury resulting from the Insurer?s participation in a criminal act
+
+7. COLLISION INSURANCE
+A) DEFINITIONS
+
+Collision Insurance includes coverage for damages to the Insurer","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,B-STREET_ADDRESS,I-STREET_ADDRESS,I-STREET_ADDRESS,I-STREET_ADDRESS,O,O,O,O,O,O,O,O,O,O,O,O,B-EMAIL,O,O,O,O,B-CONTRACT_ID,O,O,O,O,B-DATE,I-DATE,I-DATE,I-DATE,I-DATE,O,O,O,O,B-DATE,I-DATE,I-DATE,I-DATE,I-DATE,O,O,O,B-PREMIUM,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",USAA,Anthony Smith,"1470 Fields Crescent Apt. 513
+South Kevin, ID 49449",stacywade@example.net,08jKRneRdykSxT9I,1914-6-18,1938-4-3,778568,Joshua Baker,"3823 Price Valleys
+Port Mary, UT 27094",ypatterson@example.com

@@ -1,0 +1,92 @@
+,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+0,0,"
+
+Below is the text that you have to follow.
+
+LEGAL AUTO CLAIMS INSURANCE POLICY
+
+THIS LEGAL AUTO CLAIMS INSURANCE POLICY (the ""Policy"") is made and entered into this 16th day of October 2019, by and between the HEALTH CARE SERVICE CORPORATION (the ""Insurer"") and TIMOTHY HART (the ""Insured"").
+
+I. INSURER INFORMATION
+Address: 8154 Johnson Squares
+East Olivia, GA 47281
+Email: jeffreywilliamson@example.com
+Policy Number: lxyDgwOG4vZS7eK6
+Start Date: October 16, 1954
+End Date: March 9, 2019
+Premium: $433,425.00
+
+II. AUTOMOBILE LIABILITY INSURANCE
+
+a) Provides legal protection for the Insured and his/her family members, including those residing in the Insured's household, named in the policy, while operating a covered vehicle, described in the policy, within the geographical limits described, for personal use, against legal liabilities for property damage or bodily injury arising out of the ownership, maintenance or use of a vehicle.
+
+The LIMITS OF LIABILITY under this subsection are $100,000/$300,000 for BI and $50,000 property damage, unless increased by endorsement.
+
+What is not covered under this subsection:
+
+* Owned vehicles that are not scheduled on the policy;
+* Vehicles used for commercial purposes;
+* Off-road vehicles (i.e. ATV's, golf carts, tractors);
+* Operations of rental vehicles;
+* Vehicles owned by the Insured's employer, if used within the scope of the employer's business.
+
+III. AUTOMOBILE MEDICAL PAYMENTS
+
+b) Pays medical expenses to the injured party or passengers of a covered vehicle who are injured in an auto accident. Includes rehabilitation, nursing care, prosthetic devices, funeral expenses, and loss of income. Pays up to $10,000 per person and $20,000 per accident, unless increased by endorsement.
+
+What is not covered under this subsection:
+
+* Expenses incurred while on a commercial vehicle or vehicle owned by employer;
+* Treatment not reasonably necessary;
+* Expenses for non-accident-related medical treatment;
+* Expenses for dental service.
+
+IV. AUTOMOBILE DEBT INDEMNITY INSURANCE
+
+c) Protects the Insured against losses if he/she is unable to make auto loan payments due to death, disability or involuntary unemployment. Covers up to $15,000.
+
+What is not covered under this subsection:
+
+* Death due to certain types of accidents (ex: pre-existing illness);
+* Disability due to pre-existing condition;
+* Involuntary unemployment caused by the Insured's fault or gross misconduct;
+* Job termination caused by employer's bankruptcy.
+
+V. UNINSURED MOTORISTS INSURANCE
+
+d) Protects the Insured against injury caused by uninsured drivers or hit-and-run drivers. The LIMITS OF LIABILITY are $100,000/$300,000 for bodily injury, unless increased by endorsement.
+
+What is not covered under this subsection:
+
+* Claims filed beyond state's statute of limitations set by law.
+
+VI. DEFAULT PROVISIONS
+
+The Insurer is duty-bound to defend the Insured against any suit brought against the Insured for or on account of property damage or bodily injury covered under this policy, and to indemnify the Insured as provided in Section II.
+
+VII. PERSONAL INJURY PROTECTION
+
+f) Pays medical, hospital, disability, and survivor benefits when the Insured or the Insured's family members sustain personal injury caused by an auto accident. Benefits include up to $2,000 per month when an insured person is unable to work due to injury.
+
+What is not covered under this subsection:
+
+* Non-accident-related injuries;
+* Expenses incurred while on a commercial vehicle or vehicle owned by employer;
+* Benefits paid for non-work-related injuries.
+
+VIII. COLLISION INSURANCE
+
+g) Pays for damages to the Insured's covered auto resulting from a collision with another object, including but not limited to, another vehicle, animal, or structure.
+
+What is not covered under this subsection:
+
+* Collision with an object left in the road;
+* Single-vehicle crashes without witness statements;
+* Vehicles without current registration;
+* Hit and run accidents without a police report.
+
+IX. COMPREHENSIVE INSURANCE
+
+h) Covers loss or damage to the Insured's covered auto resulting from events including, but not limited to, fire, theft, v","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-STREET_ADDRESS,I-STREET_ADDRESS,O,O,O,O,O,O,O,O,O,O,B-EMAIL,O,O,O,O,B-CONTRACT_ID,O,O,O,O,O,O,O,B-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,I-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",Health Care Service Corporation,Timothy Hart,"8154 Johnson Squares
+East Olivia, GA 47281",jeffreywilliamson@example.com,lxyDgwOG4vZS7eK6,1954-10-16,2019-3-9,433425,Jeanette Jones,"405 Schmidt Corner Apt. 809
+South Elizabethburgh, PW 88403",angela96@example.net

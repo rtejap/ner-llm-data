@@ -1,0 +1,109 @@
+,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+0,0,"
+
+
+**STANDARD LEGAL AUTO CLAIMS INSURANCE POLICY**
+
+THIS POLICY is made and entered into by and between STATE FARM INSURANCE, hereinafter referred to as the ""Insurer,"" and Teresa Bryant, hereinafter referred to as the ""Insured.""
+
+**I. IDENTIFICATION OF INSURED AND POLICY INFORMATION**
+
+Insured: Teresa Bryant
+Address: 71614 Rivers Stream Suite 259
+Port Cheyenne, OK 01216
+Email: vaughnnancy@example.com
+
+Policy Number: h3Lv8sF475hjiIpH
+Start Date: 1933-3-8
+End Date: 1954-4-8
+
+**II. PREMIUM**
+
+The premium amount for the Legal Auto Claims Policy is $58,455.
+
+**III. AUTOMOBILE LIABILITY INSURANCE**
+
+A. Coverage
+We will pay damages for bodily injury or property damage for which any insured person becomes legally responsible because of an auto accident.
+
+B. Exclusions
+This coverage does not apply to:
+
+1. Damage to property owned, rented, or borrowed by the insured
+2. Bodily injury or property damage caused intentionally by or at the direction of the insured
+3. The insured's operation of any vehicle while in the business of transportation for hire (e.g., taxi, Uber, or Lyft)
+4. The insured's use of a non-owned vehicle in the business of selling, servicing, repairing, storing, or parking motor vehicles.
+
+LIMITS OF LIABILITY: $50,000 per person, $100,000 per accident, and $25,000 for property damage.
+
+WHAT IS NOT COVERED: Any damage to the insured vehicle or personal property.
+
+**IV. AUTOMOBILE MEDICAL PAYMENTS**
+
+A. Coverage
+We will pay medical expenses for the insured, relatives residing in the same household, and passengers in the insured vehicle.
+
+B. Exclusions
+This coverage does not apply to:
+
+1. Injuries sustained while the insured is riding in or driving a vehicle owned by the insured and registered in a state that does not require automobile liability insurance
+2. Intentionally self-inflicted injuries
+3. Injuries sustained while the insured is operating a motorcycle or motorized bicycle
+
+LIMITS OF LIABILITY: $5,000 per person.
+
+WHAT IS NOT COVERED: Any medical expenses not related to an auto accident.
+
+**V. AUTOMOBILE DEBT INDEMNITY INSURANCE**
+
+A. Coverage
+We will pay the insured's outstanding loan balance if the insured vehicle is declared a total loss due to an accident or theft.
+
+B. Exclusions
+This coverage does not apply to:
+
+1. Vehicles that are more than seven years old or have more than 100,000 miles
+2. Damage caused by the insured's intentional act or gross negligence
+3. Vehicles not insured under this policy
+
+LIMITS OF LIABILITY: The actual cash value of the insured vehicle.
+
+WHAT IS NOT COVERED: Any financing charges, late fees, or other costs associated with the insured's loan.
+
+**VI. UNINSURED MOTORISTS INSURANCE**
+
+A. Coverage
+We will pay damages for bodily injury to the insured, relatives residing in the same household, and passengers in the insured vehicle caused by an uninsured motorist.
+
+B. Exclusions
+This coverage does not apply to:
+
+1. Damage to property
+2. Injuries sustained while the insured is riding in or driving a vehicle owned by the insured and registered in a state that does not require automobile liability insurance
+3. Injuries sustained while the insured is operating a motorcycle or motorized bicycle
+
+LIMITS OF LIABILITY: $50,000 per person and $100,000 per accident.
+
+WHAT IS NOT COVERED: Any damage to the insured vehicle or personal property.
+
+**VII. DEFAULT PROVISIONS**
+
+A. Failure to Pay Premium
+If the insured fails to pay the premium, this policy will be canceled.
+
+B. Misrepresentation
+Any misrepresentation or concealment of material facts made by the insured may void this policy.
+
+**VIII. PERSONAL INJURY PROTECTION**
+
+A. Coverage
+We will pay medical expenses and lost wages for the insured, relatives residing in the same household, and passengers in the insured vehicle.
+
+B. Exclusions
+This coverage does not apply to:
+
+1. Injuries sustained while the insured is operating a motorcycle or motorized bicycle
+2. Intentionally self-inflicted injuries
+3. Injuries sustained while the insured is riding in a vehicle owned by the insured and registered in a state","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,B-STREET_ADDRESS,I-STREET_ADDRESS,I-STREET_ADDRESS,I-STREET_ADDRESS,O,O,O,O,O,O,O,O,O,O,B-EMAIL,O,O,O,O,B-CONTRACT_ID,O,O,O,O,B-DATE,I-DATE,I-DATE,I-DATE,I-DATE,O,O,O,O,B-DATE,I-DATE,I-DATE,I-DATE,I-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",State Farm Insurance,Teresa Bryant,"71614 Rivers Stream Suite 259
+Port Cheyenne, OK 01216",vaughnnancy@example.com,h3Lv8sF475hjiIpH,1933-3-8,1954-4-8,58455,Eric Chavez,"6449 Barbara Wells Suite 642
+North Brianbury, KY 60917",aallen@example.org

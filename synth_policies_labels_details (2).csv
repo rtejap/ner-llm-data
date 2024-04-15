@@ -1,0 +1,99 @@
+,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+0,0,"
+The following paragraph is my Legal Auto Claims Policy for State Farm Insurance. 
+
+Please accept this as a formal, legal, and binding contract.
+
+AUTOMOBILE LIABILITY INSURANCE
+Automobile Liability insurance is an agreement to provide payment for a legal obligation imposed by law for personal injury or death incurred to other people and for property damage to others. The maximum amount of automobile bodily injury benefits that the Insurer will provide for each person as a result of an accident is $100,000. The maximum amount of automobile bodily injury benefits that the Insurer will provide to any one accident is $300,000. The maximum amount of automobile property damage benefits that the Insurer will pay to any one person is $50,000. The maximum amount of automobile property damage benefits that the Insurer will pay in any one accident is $100,000. 
+
+Exclusions
+This policy does not cover personal injuries or damage to property caused by
+1. The Insured's intentional acts. 
+2. War or acts of war.
+3. Nuclear accidents.
+4. Damages which the insured is not legally liable, whether under a civil or criminal action.
+
+LIMITS OF LIABILITY
+The Insured shall be provided benefits for medical expense and loss of income up to two years from the date of the personal injury, but not to exceed $100,000 each accident. The amount for other losses shall be established by the court or agreement between parties and the insurer.
+
+WHAT IS NOT COVERED
+This policy does not cover insured's personal injury or property damage caused by the insured's vehicle.
+
+AUTOMOBILE MEDICAL PAYMENTS
+This coverage pays for the medical payment for the Insured's medical and funeral expenses incurred due to an accident, regardless of fault.
+
+Exclusions
+The following are the exclusions for the Automobile Medical Payments:
+1. The medical payment does not include the Insured's intentional acts.
+2. The medical benefit does not apply if the Insured is not the driver.
+3. War or acts of war
+4. Nuclear accidents
+5. Medical expenses due to illnesses and/or sicknesses.
+6. Mass transit accidents
+
+LIMITS OF LIABILITY
+The Insured shall be provided $1,000 for each accident, regardless of fault. 
+
+WHAT IS NOT COVERED
+This policy does not cover Insured's funeral expenses due to illnesses and/or sicknesses.
+
+AUTOMOBILE DEBT INDEMNITY INSURANCE
+This is an optional coverage. When the Insured incurs in an accident that is their fault, the policy provides coverage for the vehicle loan or lease in case they die or become a permanently disabled person.
+
+Exclusions
+The following are the exclusions:
+1. The Insured's intentional acts.
+2. War or acts of war.
+3. Nuclear accidents.
+4. Non-motor-vehicle accidents.
+
+LIMITS OF LIABILITY
+The Insured shall be provided up to the limit of the balance of their vehicle loan or lease.
+
+WHAT IS NOT COVERED
+This policy does not cover the Insured's medical expenses.
+
+UNINSURED MOTORISTS INSURANCE
+This coverage protects the Insured against uninsured drivers as well as drivers whose insurer become insolvent, and hit and runs.
+
+Exclusions
+The following are the exclusions:
+1. The Insured's intentional acts.
+2. War or acts of war.
+3. Nuclear accidents.
+4. Damages which the insured is not legally liable, whether under a civil or criminal action.
+5. The Insured's medical expenses.
+
+LIMITS OF LIABILITY
+The Insured shall be provided up to $250,000 per person with a maximum payout of $500,000 per accident.
+
+WHAT IS NOT COVERED
+This policy does not cover the Insured's medical expenses.
+
+DEFAULT PROVISIONS
+The policy shall automatically extend itself for an additional period of six months beyond its expiration date, unless the Insurer has terminated this policy on the basis of nonpayment of premium.
+
+Exclusions
+The following are the exclusions:
+1. The Insured's intentional acts.
+2. War or acts of war.
+3. Nuclear accidents.
+
+LIMITS OF LIABILITY
+The Insured shall be provided a credit in the amount of the unearned part of the premium for the remaining of the policy extension period. The Insured shall also be given an opportunity to pay the premium for the extended term before the premium becomes due.
+
+WHAT IS NOT COVERED
+This policy does not cover insured's personal claims if they die within 90 days of the effective.
+
+PERSONAL INJURY PROTECTION
+This coverage is available to Insured to pay for medical expenses and loss of income from an automobile accident, regardless of fault.
+
+Exclusions
+The following are the exclusions:
+1. The Insured's intentional acts.
+2. War or acts of war.
+3. Nuclear accidents.
+4. Damages which the insured is not legally li","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",State Farm Insurance,Michael Alexander,"USNS Hansen
+FPO AE 64250",tiffanyoconnor@example.net,S2TCRs5GJQ0Urhd8,1909-1-22,1918-12-30,241023,Kimberly Howard,"USNV Allen
+FPO AA 02103",estewart@example.net

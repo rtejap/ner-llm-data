@@ -1,86 +1,106 @@
-,id,text,labels,company_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
+,id,text,labels,Insurer_name,primary_name,primary_address,primary_email_address,contract_id,begin_date,end_date,premium_amount,secondary_name,secondary_address,secondary_email_address
 0,0,"
-
-The policy must be underwriting by the following company Name: The United Services Automobile Association (USAA).
 
 LEGAL AUTO CLAIMS INSURANCE POLICY
 
-BETWEEN AMERICAN FAMILY INSURANCE AND BRENDA PARKER 
+This Legal Auto Claims Insurance Policy (the ?Policy?) is hereby issued and entered into as of June 29, 1988 (?Effective Date?), between Geico (?Insurer?) and Kelly Armstrong (?Insured?). This Policy will remain in force until the termination date of August 16, 1992 (?Expiration Date?). The policy number for this Legal Auto Claims Policy is 7e98a82c-0011-4619-80af-d2efc4b0ba4e, and the premium amount for this policy is $482,830. 
 
-This Auto Insurance Policy (The ""Policy"") entered into by and between the Insurer, AMERICAN FAMILY INSURANCE, herein referred to as ""the Insurer"", and the Named Insured, BRENDA PARKER, herein referred to as ""the Insured?. This policy agreement applies to the following Vehicle: 1981 Honda CR-X
+I. AUTOMOBILE LIABILITY INSURANCE
 
-Policy Number: 709c8325-5fe2-47b4-9e59-e211309d9150
+A. Coverage
 
-Policy Term: Start Date: October 10, 1978 End Date: June 18, 1993
+This section of the policy provides coverage for bodily injury and property damage arising from the ownership, maintenance, or use of any insured automobile. 
 
-Premium: 79899.00
+B. Exclusions
 
-Contact Information:
-Christopher Henry
-73749 Hayden Avenue
-South Wayne, AL 86106
-christinareid@example.net
+This coverage does not apply to:
 
-Underwriting Company: The United Services Automobile Association (USAA)
+1. Bodily injury or property damage caused intentionally by the insured.
+2. Bodily injury or property damage caused by the insured while driving under the influence of drugs or alcohol.
+3. Bodily injury or property damage caused by the insured while driving a vehicle that is not listed on the policy.
 
-AUTOMOBILE LIABILITY INSURANCE
-
-The Insurer agrees to pay all sums that the Insured becomes legally obligated to pay as damages because of bodily injury or property damage caused by an auto accident. This coverage applies only to liability assumed by the Insured under a written contract, other than a contract of carriage.
-
-Limits of Liability: 
-The Insurer will pay damages for bodily injury, sickness, disease or death of up to $50,000 per person and $100,000 per occurrence and property damage up to $50,000.
-
-Exclusion: 
-This coverage does not cover damages resulting from wars, invasion and insurrections, rebellion, revolution, hostilities or civil war, or any hostile acts by or against a government or sovereign power (including the United States).
+LIMITS OF LIABILITY:
+The maximum amount that the Insurer will pay for any one accident is $100,000 for bodily injury to or death of one person, $300,000 for bodily injury to or death of two or more persons, and $50,000 for property damage.
 
 WHAT IS NOT COVERED:
+The Insurer will not pay for:
+
+1. Bodily injury or property damage caused by war, invasion, or insurrection.
+2. Bodily injury or property damage caused by the use of nuclear weapons.
+3. Bodily injury or property damage caused by pollution or contamination.
+
+II. AUTOMOBILE MEDICAL PAYMENTS
+
+A. Coverage
+
+This section of the policy provides coverage for necessary medical and funeral expenses incurred by the insured, relatives of the insured, or occupants of the insured automobile as a result of an accident.
+
+B. Exclusions
 
 This coverage does not apply to:
-1. Damages arising out of the ownership, operation, maintenance, loading or unloading of motor vehicles while in or upon any railroad, bridge, or railroad or bridge approach.
 
-2. Damages for loss caused by or resulting from the discharge or escape of steam or water in the boiler, machinery or equipment of vehicles subject to the provisions of the Steam Boiler Inspection Acts of the United States.
+1. Expenses incurred while the insured is riding in a vehicle owned by the insured but not listed on the policy.
+2. Expenses incurred while the insured is operating a vehicle borrowed from another person.
 
-3. Damages caused by or resulting from vehicles owned or operated by insureds engaged in war-time reenactment activities or as owners.
+LIMITS OF LIABILITY:
+The maximum amount that the Insurer will pay for any one accident is $5,000.
 
-AUTOMOBILE MEDICAL PAYMENTS
+WHAT IS NOT COVERED:
+The Insurer will not pay for:
 
-The Insurer agrees to pay all reasonable medical expenses incurred within 3 years of an accident for necessary medical services, surgical care, x-ray examinations, dental services, and prosthetic devices, which are incurred by the Insured and/or passengers.
+1. Expenses incurred while the insured is driving a vehicle for business purposes.
+2. Expenses incurred while the insured is driving a vehicle for racing or speed contests.
+3. Expenses incurred while the insured is driving a vehicle outside the United States or Canada.
 
-Limits of Liability: 
-The Insured and/or passengers may recover up to $2000.00 for necessary medical care.
+III. AUTOMOBILE DEBT INDEMNITY INSURANCE
 
-Exclusion: 
-Medical payments coverage is not available for expenses incurred for services performed by any person who is a member of the Insured's household.
+A. Coverage
 
-WHAT IS NOT COVERED: 
+This section of the policy provides coverage for the balance of any loan or lease outstanding on the insured automobile in the event of total loss or theft.
 
-This coverage does not apply to:
-1. Any medical expenses incurred for injuries sustained by the Insured or passengers while occupying a vehicle that is owned by the Insured or a member of the Insured's household and is not described in the policy.
-
-2. Any medical expenses incurred for injuries sustained by the Insured or passengers while occupying a vehicle operated by a for-hire driver.
-
-3. Any medical expenses incurred for injuries sustained by the Insured or passengers while occupying a vehicle used principally for the transportation of persons or property for hire or for fee.
-
-4. Any medical expenses incurred for injuries sustained by the Insured or passengers while occupying a vehicle owned by the Insured or a member of the Insured's household and operated by a federal, state, or local government employee in the scope of their employment.
-
-AUTOMOBILE DEBT INDEMNITY INSURANCE
-
-The Insurer agrees to pay all sums which the Insured is legally obligated to pay for the following:
-a) For damage to or loss of covered property.
-
-b) For liability assumed by the Insured under a contract of indebtedness or warranty in connection with the sale, lease or financing of a motor vehicle described in the policy.
-
-Limits of Liability:
-The Insurer will pay the amount of damages caused to covered property in an amount not exceeding $100,000 for any one accident.
-
-Exclusion:
-This coverage does not apply to motor vehicles that are not described in the policy, or vehicles with liability coverage that exceeds the policy limits.
-
-WHAT IS NOT COVERED: 
+B. Exclusions
 
 This coverage does not apply to:
-1. Damages resulting from racing, demolition contests, or stunts.
 
-2. Damages resulting from the use of a vehicle while it","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,O,O,O,O,O,O,O,O,O,O,B-DATE,O,O,O,O,O,O,B-DATE,O,O,O,B-PREMIUM,O,O,O,O,O,B-NAME,I-NAME,O,B-STREET_ADDRESS,I-STREET_ADDRESS,O,O,O,O,O,O,O,O,B-EMAIL,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,I-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",American Family Insurance,Brenda Parker,"384 Christina Gardens
-Port John, PR 89685",jeffrey51@example.net,709c8325-5fe2-47b4-9e59-e211309d9150,1978-10-10,1993-6-18,79899,Christopher Henry,"73749 Hayden Avenue
-South Wayne, AL 86106",christinareid@example.net
+1. Total loss or theft caused by the insured?s intentional acts.
+2. Total loss or theft caused by the insured?s negligence.
+
+LIMITS OF LIABILITY:
+The maximum amount that the Insurer will pay for any one accident is the balance of the loan or lease outstanding on the insured automobile.
+
+WHAT IS NOT COVERED:
+The Insurer will not pay for:
+
+1. Total loss or theft caused by war, invasion, or insurrection.
+2. Total loss or theft caused by the use of nuclear weapons.
+3. Total loss or theft caused by pollution or contamination.
+
+IV. UNINSURED MOTORISTS INSURANCE
+
+A. Coverage
+
+This section of the policy provides coverage for bodily injury to the insured, relatives of the insured, or occupants of the insured automobile caused by an uninsured motorist.
+
+B. Exclusions
+
+This coverage does not apply to:
+
+1. Bodily injury caused while the insured is operating a vehicle borrowed from another person.
+2. Bodily injury caused while the insured is driving a vehicle for business purposes.
+
+LIMITS OF LIABILITY:
+The maximum amount that the Insurer will pay for any one accident is $100,000 for bodily injury to or death of one person, $300,000 for bodily injury to or death of two or more persons.
+
+WHAT IS NOT COVERED:
+The Insurer will not pay for:
+
+1. Bodily injury caused intentionally by the insured.
+2. Bodily injury caused by the insured while driving under the influence of drugs or alcohol.
+
+V. DEFAULT PROVISIONS
+
+A. Cancellation
+
+This policy may be cancelled by either party upon 30 days? written","O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-NAME,I-NAME,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-DATE,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,B-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,I-CONTRACT_ID,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O",Geico,Kelly Armstrong,"15949 Leslie Park Apt. 109
+Stevenchester, OK 24429",nramos@example.com,7e98a82c-0011-4619-80af-d2efc4b0ba4e,1988-6-29,1992-8-16,482830,William Bennett,"969 White Springs Apt. 566
+North Michaelmouth, AL 92248",chad89@example.net
